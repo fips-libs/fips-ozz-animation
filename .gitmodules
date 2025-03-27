@@ -1,0 +1,3 @@
+[submodule "ozz-animation"]
+	path = ozz-animation
+	url = https://github.com/guillaumeblanc/ozz-animation
